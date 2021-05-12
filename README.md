@@ -11,6 +11,8 @@ https://nextjs.org/learn/basics/create-nextjs-app
 - [ ] API Routes
 - [ ] Deploying your Next.js App
 
+![](https://progress-bar.dev/43?title=progress)
+
 ## Setup env
 ```bash
 sudo apt update
