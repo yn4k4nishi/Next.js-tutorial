@@ -2,7 +2,7 @@
 
 https://nextjs.org/learn/basics/create-nextjs-app
 
-## Progress
+## Progress ![](https://progress-bar.dev/43)
 - [x] Create a next.js App
 - [x] Navigate Between Pages
 - [x] Assets, Metadata, and CSS
@@ -10,8 +10,6 @@ https://nextjs.org/learn/basics/create-nextjs-app
 - [ ] Dynamic Routes
 - [ ] API Routes
 - [ ] Deploying your Next.js App
-
-![](https://progress-bar.dev/43?title=progress)
 
 ## Setup env
 ```bash
