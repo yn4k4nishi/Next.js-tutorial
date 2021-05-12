@@ -4,10 +4,7 @@ https://nextjs.org/learn/basics/create-nextjs-app
 
 ## Progress
 - [x] Create a next.js App
-	- [x] Setup
-	- [x] Welcome to Next.js
-	- [x] Editing the Page
-- [ ] Navigate Between Pages
+- [x] Navigate Between Pages
 - [ ] Assets, Metadata, and CSS
 - [ ] Pre-rendering and Data Fetching
 - [ ] Dynamic Routes
