@@ -2,11 +2,11 @@
 
 https://nextjs.org/learn/basics/create-nextjs-app
 
-## Progress ![](https://progress-bar.dev/43)
+## Progress ![](https://progress-bar.dev/57)
 - [x] Create a next.js App
 - [x] Navigate Between Pages
 - [x] Assets, Metadata, and CSS
-- [ ] Pre-rendering and Data Fetching
+- [x] Pre-rendering and Data Fetching
 - [ ] Dynamic Routes
 - [ ] API Routes
 - [ ] Deploying your Next.js App
