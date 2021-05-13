@@ -2,7 +2,7 @@
 
 https://nextjs.org/learn/basics/create-nextjs-app
 
-## Progress ![](https://progress-bar.dev/4/?scale=7&suffix=)
+## Progress ![](https://progress-bar.dev/4/?scale=7&suffix=/7)
 - [x] Create a next.js App
 - [x] Navigate Between Pages
 - [x] Assets, Metadata, and CSS
