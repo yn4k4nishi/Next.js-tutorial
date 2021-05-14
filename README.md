@@ -7,7 +7,7 @@ https://nextjs.org/learn/basics/create-nextjs-app
 - [x] Navigate Between Pages
 - [x] Assets, Metadata, and CSS
 - [x] Pre-rendering and Data Fetching
-- [ ] Dynamic Routes
+- [x] Dynamic Routes
 - [ ] API Routes
 - [ ] Deploying your Next.js App
 
