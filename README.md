@@ -1,5 +1,6 @@
 ## Next.js tutorial
 deploy : https://nextjs-blog-tau-tawny.vercel.app/
+
 tutorial : https://nextjs.org/learn/basics/create-nextjs-app
 
 ## Progress ![](https://progress-bar.dev/6/?scale=7&suffix=/7)
