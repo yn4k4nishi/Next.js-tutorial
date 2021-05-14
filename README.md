@@ -32,3 +32,6 @@ npm run dev
 ```
 
 http://localhost:3000 を開く
+
+## Deploy
+using [Vercel](https://vercel.com/)
